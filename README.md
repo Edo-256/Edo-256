@@ -22,6 +22,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Bianchi Edoardo"
+        self.birth = "07 December 1999"
         self.role = "Software Engineer"
         self.status = "Completing master's degree and looking for employment💼"
         self.hobby = ["Coding💻", "PC Gaming🎮", "Cars🏎️"]
@@ -36,8 +37,8 @@ me.say_hi()
 ```
 
 ## Education 🎓
-- [ ] Master’s Degree in Computer Science @ Università degli Studi di Milano-Bicocca (oct 2022 - oct 2024)
-- [x] Bachelor's Degree in Computer Science @ Università degli Studi di Milano-Bicocca (2015 - 2019)
+- [ ] Master’s Degree in Computer Science @ Università degli Studi di Milano-Bicocca (Oct 2022 - Oct 2024)
+- [x] Bachelor's Degree in Computer Science @ Università degli Studi di Milano-Bicocca (Oct 2019 - Jul 2022)
 
 ## Learning 📚
 Currently, i am studying and exploring:
