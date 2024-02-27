@@ -36,7 +36,7 @@ me.say_hi()
 ```
 
 ## Education 🎓
-- [] Master’s Degree in Computer Science @ Università degli Studi di Milano-Bicocca (oct 2022 - oct 2024)
+- [ ] Master’s Degree in Computer Science @ Università degli Studi di Milano-Bicocca (oct 2022 - oct 2024)
 - [x] Bachelor's Degree in Computer Science @ Università degli Studi di Milano-Bicocca (2015 - 2019)
 
 ## Learning 📚
@@ -46,10 +46,12 @@ Currently, i am studying and exploring:
 
 ## Experience 📟
 In the following, you can find a list of the main programming languages that I have studied and/or experimented with:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 
 And also a list of the tools with which I am confident and/or have already used:
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
